@@ -44,6 +44,13 @@ Streamlit UI (AWS Deployment)
 Food images and textual metadata are embedded using AWS Titan embeddings and stored in a FAISS vector database. When a user submits a text or image query, the system retrieves the most relevant multimodal context and augments the prompt for the vision-language model, ensuring grounded and accurate recommendations.
 
 ---
+## Proofs
+<img width="1568" height="821" alt="Screenshot 2025-12-16 020613" src="https://github.com/user-attachments/assets/572d6626-478c-4a3d-ac8d-b9497d81660c" />
+<img width="1640" height="343" alt="Screenshot 2025-12-16 020625" src="https://github.com/user-attachments/assets/72fb5bcd-3e5e-4ec9-99e4-00515bc859da" />
+<img width="1508" height="792" alt="Screenshot 2025-12-16 020646" src="https://github.com/user-attachments/assets/41562477-79ac-4916-85e7-06182285f7a6" />
+
+
+---
 
 ## Use Cases
 - Personalized food discovery  
