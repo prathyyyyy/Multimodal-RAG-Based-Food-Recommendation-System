@@ -1,0 +1,8 @@
+boto3
+awscli
+pandas
+langchain
+langchain-community
+faiss-cpu
+streamlit
+streamlit-chat
